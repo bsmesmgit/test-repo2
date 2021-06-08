@@ -7,3 +7,4 @@ Some text
 information
 
 ### Point 3
+### Cool thing
