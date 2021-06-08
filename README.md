@@ -5,3 +5,5 @@ Some text
 ## More stuff
 
 information
+
+### Point 3
