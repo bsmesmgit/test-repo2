@@ -5,3 +5,5 @@ Some text
 ## More stuff
 
 information
+
+### Cool thing
